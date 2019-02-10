@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestePermissions</string>
+    <string name="permiss_o">Permissão</string>
+    <string name="proxima">Proxima</string>
+</resources>
